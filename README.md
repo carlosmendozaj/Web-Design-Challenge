@@ -1,3 +1,5 @@
+##  DEPLOY PAGE: https://carlosmendozaj.github.io/Web-Design-Challenge/
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
